@@ -11,6 +11,24 @@
 - [ ] One real, current idea from your own backlog (the messier, the better)
 - [ ] A partner
 
+## No Azure DevOps Access?
+
+**Option A — fastest fix, do this before the session:** ADO has a free tier (Basic plan, free for the first 5 users). Go to `dev.azure.com`, sign in with a Microsoft account, and create an organization + project — about 5 minutes, and you get the real fields and boards experience this lab is built around.
+
+**Option B — no ADO at all:** capture the exact same fields below instead of clicking into a tool. The skill being practiced is structuring the artifact correctly, not the ADO interface itself — this preserves that.
+
+```
+WORK ITEM TYPE: Epic
+Title:
+Description:
+Acceptance Criteria:
+Area Path:
+Iteration Path:
+Tags:
+```
+
+If your team eventually gets ADO access, this card copy-pastes directly into a real Epic with zero rework.
+
 ## Learning Goal
 
 Turn a vague idea into a structured problem statement, personas, JTBD, and success metrics using the **Context + Goal + Constraints + Output** (CGCO) prompting pattern — then log it as a properly-fielded ADO Epic.
