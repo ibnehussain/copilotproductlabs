@@ -7,7 +7,7 @@ Hands-on lab exercises for the **GitHub Copilot for Product Managers** training 
 | Day | Lab | Focus |
 |-----|-----|-------|
 | 1 | [Day1_Lab.md](Day1_Lab.md) | Idea → Problem Statement → Personas → JTBD → Metrics → ADO Epic |
-| 2 | Day2_Lab.md | Feature decomposition from Epic |
+| 2 | [Day2_Lab.md](Day2_Lab.md) | Rough notes → Full PRD → Gherkin AC → ADO Feature & User Story hierarchy |
 | 3 | Day3_Lab.md | User stories and acceptance criteria |
 | 4 | Day4_Lab.md | Sprint planning and backlog refinement |
 | 5 | Day5_Lab.md | Retrospective and metrics review |
